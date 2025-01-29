@@ -1,5 +1,5 @@
 This is the implementation of project 1 in the Udacity course "Generative AI" titled"Project: Apply Lightweight Fine-Tuning to a Foundation Model".
 
-Before running the notebook setup your python virtual environment using the [../requirements.txt](../requirements.txt) file.
-
-The sa
+Before running the notebook setup your python virtual environment using the
+* [../requirements.txt](../requirements.txt) file.
+* [requirements.txt](requirements.txt) file.
