@@ -152,7 +152,7 @@ def tokenize_text_from_tokenizer(
     tokenized_text = [
         token
         for chunk in chunks_generator
-        for token in tokenizer(chunk).tokens()
+        for token in tokenizer(chunk).prompt_template_tokens()
         if (
             token not in ignore_tokens
         )
