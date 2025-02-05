@@ -1,0 +1,4 @@
+# Install first the requirements.txt at repo root level
+# The following is ensured to match version in the Udacity notebook that runs in the server
+gradio==3.50.2
+gradio_client==0.6.1

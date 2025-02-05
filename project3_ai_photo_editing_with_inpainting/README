@@ -1,0 +1,8 @@
+Implementation of the solution for the project #3: AI Photo Editing with Inpainting
+
+The project requires:
+- Use SAM to segment the subject and substitute the background or the subject with text prompts
+- Use the AutoPipelineForInpainting to perform inpainting
+- Build an interactive app to do the first two steps
+
+Solution
